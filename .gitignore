@@ -1,0 +1,9 @@
+# Never upload real credentials
+email_config.py
+
+# Python junk files
+__pycache__/
+*.pyc
+
+# Generated report (not source code, no need to track it)
+report.csv

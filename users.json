@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Ahmed Ali",
+        "email": "ahmed.ali@example.com",
+        "password": "Ahmed123",
+        "type": "restaurant"
+    },
+    {
+        "name": "Sara Mohamed",
+        "email": "sara.m@example.com",
+        "password": "Sara456",
+        "type": "charity"
+    },
+    {
+        "name": "Omar Hassan",
+        "email": "omar.h@example.com",
+        "password": "Omar789",
+        "type": "volunteer"
+    },
+    {
+        "name": "Mona Adel",
+        "email": "mona.adel@example.com",
+        "password": "Mona321",
+        "type": "family"
+    },
+    {
+        "name": "Youssef Nabil",
+        "email": "youssef.n@example.com",
+        "password": "Youssef654",
+        "type": "hotel"
+    },
+    {
+        "name": "Nour Ibrahim",
+        "email": "nour.i@example.com",
+        "password": "Nour987",
+        "type": "restaurant"
+    },
+    {
+        "name": "Khaled Samir",
+        "email": "khaled.s@example.com",
+        "password": "Khaled111",
+        "type": "charity"
+    },
+    {
+        "name": "Mariam Fathy",
+        "email": "mariam.f@example.com",
+        "password": "Mariam222",
+        "type": "volunteer"
+    },
+    {
+        "name": "Hassan Tarek",
+        "email": "hassan.t@example.com",
+        "password": "Hassan333",
+        "type": "hotel"
+    },
+    {
+        "name": "Salma Reda",
+        "email": "salma.r@example.com",
+        "password": "Salma444",
+        "type": "family"
+    },
+    {
+        "name": "Karim Wael",
+        "email": "karim.w@example.com",
+        "password": "Karim555",
+        "type": "restaurant"
+    },
+    {
+        "name": "Aya Gamal",
+        "email": "aya.g@example.com",
+        "password": "Aya666",
+        "type": "charity"
+    },
+    {
+        "name": "Mahmoud Essam",
+        "email": "mahmoud.e@example.com",
+        "password": "Mahmoud777",
+        "type": "volunteer"
+    },
+    {
+        "name": "Fatma Ashraf",
+        "email": "fatma.a@example.com",
+        "password": "Fatma888",
+        "type": "family"
+    },
+    {
+        "name": "Mostafa Hany",
+        "email": "mostafa.h@example.com",
+        "password": "Mostafa999",
+        "type": "hotel"
+    },
+    {
+        "name": "jana",
+        "email": "janaqoura@gmail.com",
+        "password": "hhhhhh",
+        "type": "family"
+    },
+    {
+        "name": "hana",
+        "email": "hana@gmail.com",
+        "password": "kkkkkk",
+        "type": "charity"
+    },
+    {
+        "name": "malak",
+        "email": "malak@gmail.com",
+        "password": "llllll",
+        "type": "hotel"
+    },
+    {
+        "name": "kenzy",
+        "email": "kenzy@gmail.com",
+        "password": "uuuuuu",
+        "type": "family"
+    },
+    {
+        "name": "Ahmed",
+        "email": "Ahmed@gmail.com",
+        "password": "12345678",
+        "type": "family"
+    },
+    {
+        "name": "jana",
+        "email": "jana@email.com",
+        "password": "1234",
+        "type": "family"
+    },
+    {
+        "name": "jana",
+        "email": "janaomarqoura19@gmail.com",
+        "password": "12345678",
+        "type": "volunteer"
+    },
+    {
+        "name": "ahmed",
+        "email": "ahmed.mostafa.29102006@gmail.com",
+        "password": "1234",
+        "type": "charity"
+    },
+    {
+        "name": "Ahmed",
+        "email": "ahmad.mostafa.29102006@gmail.com",
+        "password": "1234",
+        "type": "restaurant"
+    }
+]
