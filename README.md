@@ -1,4 +1,4 @@
-# FoodRescueNetwork 🍲
+# FoodRescueNetwork 
 
 A Python application for managing food donations, connecting donors (restaurants, hotels, and families) with charities and volunteers to reduce food waste and support communities in need.
 
